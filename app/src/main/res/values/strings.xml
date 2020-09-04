@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaginationWithImage</string>
+    <string name="search_for_item">Search For Item</string>
+    <string name="unable_to_perform_action">unable to perform action</string>
+</resources>
